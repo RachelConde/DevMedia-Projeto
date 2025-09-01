@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+    text-align: center;
+    color: #6d4c41;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+span {
+
+    color: #27160c;
+    font-weight: bold;
+}
+
+.paragrafo {
+    text-align: justify;
+    margin: 10px auto;
+    width: 980px;
+    
+}
+
+.logo {
+    font-size: 20px;
+    text-align: center;
+    background-color: #faf3e0;
+}
+
+.imagem-logo {
+    height: 400px;
+    width: 700px;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0 15px;
+    font-family: fantasy;
+    color: #6d4c41;
+}
+
+.imagem {
+    height: 600px;
+    width: 900px;
+    padding-bottom: 20px;
+}
+
+.sobre, .serviço, .contato {
+    padding-top: 50px;
+}
+
+.sobre, .vantagem {
+    margin-bottom: 50px;
+}
+
+.serviço, .contato {
+    background-color: #faf3e0;
+    padding-bottom: 50px;
+
+}
+.lista-serviço{
+    width: 1350px;
+    margin: 40px auto 40px;
+    
+}
+
+.texto-serviço {
+    text-align: left;
+    padding: 15px;
+
+}
+
+.imagem-sobre-nos {
+
+    margin-bottom: 20px;
+}
+
+.estilo-contato {
+
+    list-style: none;
+    margin: 40px auto 40px; 
+    width: 210px;
+}
+
+.texto-contato {
+
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #6d4c41;
+    color: #faf3e0;
+}
+
+.lista-contato {
+    padding: 10px;
+}
+
