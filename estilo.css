@@ -34,8 +34,9 @@ span {
 }
 
 .imagem-logo {
-    height: 400px;
-    width: 700px;
+    height: 100%;
+    width: 100%;
+    max-width: 800px;
 }
 
 .link {
